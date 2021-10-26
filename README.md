@@ -15,3 +15,17 @@ Regular expressions to match certain data
     ```python
     python -m pytest -v test_name_matching.py
     ```
+
+# Testing your gerund-matching solution
+
+1. 
+    ```python
+    python -m pytest -v test_name_matching.py
+    ```
+
+# Testing your group-capture-matching solution
+
+1. 
+    ```python
+    python -m pytest -v test_capture_group.py
+    ```
